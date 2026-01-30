@@ -8,12 +8,10 @@ This project evaluates the compliance with this legislation for **Colorectal Can
 ## 📊 Key Analytical Insights
 * **Screening Bottleneck:** Over **70%** of patients across nearly all Brazilian states initiate treatment already at **Stage III or IV**, highlighting critical failures in early detection and primary care screening.
 * **Regional Disparities:** Northern states, such as **Amazonas**, show law non-compliance rates exceeding **50%**, indicating a severe geographic gap in oncology infrastructure.
-* **The Statistical Paradox:** A Pearson correlation coefficient of **0.04** between treatment delay and staging suggests that disease severity is chronically high regardless of the immediate hospital wait time. This implies that the patient's prognosis is often compromised before they even enter the specialized oncological system, suggesting that screening is currently inefficient 
+* **The Statistical Paradox:** A Pearson correlation coefficient of **0.04** between treatment delay and staging suggests that disease severity is chronically high regardless of the immediate hospital wait time. This implies that the patient's prognosis is often compromised before they even enter the specialized oncological system, suggesting that screening is currently inefficient
 
-<img width="989" height="1189" alt="image" src="https://github.com/user-attachments/assets/682334aa-c3dc-4e5f-9a86-cca27f21666a" />
-
-<img width="971" height="1190" alt="image" src="https://github.com/user-attachments/assets/f5fce93e-21e2-4f8e-84be-9b17d4deedf7" />
-
+* ![](Unknown-3.png)
+* ![](Unknown-4.png)
 
 ## 🛠️ Technologies & Methodology
 * **Language:** Python 3.x
