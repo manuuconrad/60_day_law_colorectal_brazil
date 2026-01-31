@@ -6,9 +6,9 @@ In Brazil, **Law 12.732/2012** (known as the "60-Day Law") mandates that patient
 This project evaluates the compliance with this legislation for **Colorectal Cancer (CRC)** between 2023 and 2025, cross-referencing healthcare efficiency with clinical staging.
 
 ## 📊 Key Analytical Insights
-* **Screening Bottleneck:** Over **70%** of patients across nearly all Brazilian states initiate treatment already at **Stage III or IV**, highlighting critical failures in early detection and primary care screening.
+* **Screening Bottleneck:** Over **70%** of patients initiate treatment at Stage III or IV. This highlights a critical failure in early detection and primary care screening, regardless of treatment speed.
 * **Regional Disparities:** Northern states, such as **Amazonas**, show law non-compliance rates exceeding **50%**, indicating a severe geographic gap in oncology infrastructure.
-* **The Statistical Paradox:** A Pearson correlation coefficient of **0.04** between treatment delay and staging suggests that disease severity is chronically high regardless of the immediate hospital wait time. This implies that the patient's prognosis is often compromised before they even enter the specialized oncological system, suggesting that screening is currently inefficient
+* **The Statistical Paradox:** A Pearson correlation coefficient of 0.04 between treatment delay and staging suggests that prognosis is often compromised before the patient enters the specialized system. Inefficient screening is a more significant driver of late-stage diagnosis than the 60-day hospital wait time itself.
 
 * ![](Unknown-3.png)
 * ![](Unknown-4.png)
